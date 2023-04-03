@@ -1,7 +1,7 @@
 # Updates
 This project is based on the original ones and implemented functions and interfaces missing there.
 The repo is at https://github.com/Desperado721/build-ml-pipeline-for-short-term-rental-prices.git
-
+The link of wanb is at https://wandb.ai/jessielyu2022/nyc_airbnb?workspace=user-jessielyu2022
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
